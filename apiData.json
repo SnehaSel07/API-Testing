@@ -30,6 +30,16 @@
         "API Testing",
         "Selenium"
       ]
+    },
+    {
+      "id": "4",
+      "name": "Sneha",
+      "location": "india",
+      "phone": "7208570203",
+      "courses": [
+        "Java",
+        "API Testing"
+      ]
     }
   ]
 }
